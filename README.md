@@ -1,4 +1,4 @@
-##About
+## About
 
 - 👋 Hi, I’m @ashu-sama
 - 👀 I’m interested in learning new technology.
